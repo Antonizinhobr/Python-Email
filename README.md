@@ -29,6 +29,7 @@
 # O que é esse repositório?
 Envio de e-mails com leitura de arquivo excel. 
 
+<br>
 
 # Email-Python Aplicação em Python. 
 
