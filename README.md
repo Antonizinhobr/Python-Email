@@ -60,3 +60,4 @@ Esse código pode ser alterado para qualquer realidade de qualquer empresa, seja
 <br>
 <img src="/Email-Python/readme/feedback.png" />
 
+★ Feito por Anthonny Michael ★
