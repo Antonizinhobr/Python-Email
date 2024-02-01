@@ -41,9 +41,13 @@ O operador recebe o mesmo e-mail no intuito do supervisor, o código envia somen
 
 Com isso, juntando tudo, unificando e contando os valores, trago as variáveis do meu dataframe personalizado com somente os dados que preciso e com a contagem lado, no e-mail, monto o corpo do e-mail e coloco as variáveis dentro e realizo o envio para todos, uma única vez. 
 
+<br>
+
 # OBS: Email-Python 
 
 Esse código pode ser alterado para qualquer realidade de qualquer empresa, seja para um relatório que todos os funcionários precisam acompanhar diariamente, desde cobranças e dentre outros motivos e interesses. 
+
+<br>
 
 # Como funciona o disparo de e-mails? 
 
